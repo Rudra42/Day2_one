@@ -1,0 +1,115 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/*header starts*/
+
+.header {
+    min-height: 100px;
+    background-color: #A64441;
+    overflow: hidden;
+}
+
+.logo {
+    min-height: 100px;
+    width: 20%;
+    background-color: cadetblue;
+    float: left;
+}
+
+.navsec {
+    min-height: 100px;
+    width: 60%;
+    background-color: teal;
+    float: right;
+}
+
+/*header ends*/
+
+/*slider starts*/
+
+.slider {
+    min-height: 300px;
+    background-color: #A7BBB9;
+    overflow: hidden;
+    width: 100%;
+    overflow: hidden;
+}
+
+.slider_content {
+    min-height: 300px;
+    background-color: blueviolet;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 60%;
+}
+
+/*slider ends*/
+
+/*service starts*/
+
+.service {
+    min-height: 400px;
+    background-color: #624B51;
+    overflow: hidden;
+}
+
+.service_top {
+    overflow: hidden;
+
+}
+
+.single_service {
+    min-height: 300px;
+    background-color: #DFDAD7;
+    width: 22%;
+    float: left;
+    padding: 0px 20px;
+}
+
+.service_header {
+    overflow: hidden;
+    min-height: 80px;
+    width: 100%;
+}
+
+.slogo {
+    min-height: 80px;
+    width: 20%;
+    background-color: chocolate;
+    float: left;
+}
+
+.snav {
+    min-height: 80px;
+    width: 70%;
+    background-color: darkcyan;
+    float: right;
+}
+
+.body {
+    min-height: 200px;
+    width: 100%;
+    background-color: darkviolet;
+    float: left;
+}
+
+.view {
+    min-height: 30px;
+    width: 100%;
+    text-align: center;
+}
+
+.service_bottom {
+    overflow: hidden;
+}
+
+.social {
+    float: left;
+    padding-left: 108px;
+
+}
+
+/*service ends*/
